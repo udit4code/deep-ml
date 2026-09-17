@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:38:37.564Z",
+  "generated_at": "2026-09-17T11:41:38.950Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -117,6 +117,19 @@
       "last_pushed_at": "2026-09-17T11:38:36.906Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1080": {
+      "kind": "problem",
+      "id": "1080",
+      "title": "Generate Input-Target Batches for Language Model Training",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1080",
+      "path": "problems/1080-generate-input-target-batches-for-language-model-training",
+      "first_solved_at": "2026-09-17T11:41:38.180Z",
+      "last_pushed_at": "2026-09-17T11:41:38.180Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
