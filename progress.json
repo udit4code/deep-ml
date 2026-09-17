@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T05:41:57.568Z",
+  "generated_at": "2026-09-17T05:42:37.162Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-09-17T05:41:56.687Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:908": {
+      "kind": "problem",
+      "id": "908",
+      "title": "Implement LayerNorm from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/908",
+      "path": "problems/0908-implement-layernorm-from-scratch",
+      "first_solved_at": "2026-09-17T05:42:36.521Z",
+      "last_pushed_at": "2026-09-17T05:42:36.521Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
