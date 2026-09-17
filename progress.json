@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:47:08.873Z",
+  "generated_at": "2026-09-17T18:00:29.309Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -247,6 +247,19 @@
       "last_pushed_at": "2026-09-17T17:47:08.137Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:1225": {
+      "kind": "problem",
+      "id": "1225",
+      "title": "Two-Layer MLP Forward Pass",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1225",
+      "path": "problems/1225-two-layer-mlp-forward-pass",
+      "first_solved_at": "2026-09-17T18:00:28.504Z",
+      "last_pushed_at": "2026-09-17T18:00:28.504Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
