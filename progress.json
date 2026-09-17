@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:48:04.400Z",
+  "generated_at": "2026-09-17T11:48:06.412Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -166,7 +166,7 @@
       "url": "https://www.deep-ml.com/problems/388",
       "path": "problems/0388-sliding-window-attention",
       "first_solved_at": "2026-09-17T11:47:42.257Z",
-      "last_pushed_at": "2026-09-17T11:47:42.257Z",
+      "last_pushed_at": "2026-09-17T11:47:59.807Z",
       "language": "python",
       "lines": 89
     }
