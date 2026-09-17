@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:30:08.438Z",
+  "generated_at": "2026-09-17T11:34:57.060Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -91,6 +91,19 @@
       "last_pushed_at": "2026-09-17T11:30:07.481Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:1007": {
+      "kind": "problem",
+      "id": "1007",
+      "title": "GPT FeedForward Block (Linear-GELU-Linear)",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1007",
+      "path": "problems/1007-gpt-feedforward-block-linear-gelu-linear",
+      "first_solved_at": "2026-09-17T11:34:56.204Z",
+      "last_pushed_at": "2026-09-17T11:34:56.204Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
