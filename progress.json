@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:05:51.868Z",
+  "generated_at": "2026-10-05T17:05:53.687Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -715,6 +715,71 @@
       "last_pushed_at": "2026-06-09T06:28:50.566Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-06-10T06:17:50.661Z",
+      "last_pushed_at": "2026-06-10T06:17:50.661Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:26": {
+      "kind": "problem",
+      "id": "26",
+      "title": "Implementing Basic Autograd Operations",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/26",
+      "path": "problems/0026-implementing-basic-autograd-operations",
+      "first_solved_at": "2026-06-10T06:26:38.009Z",
+      "last_pushed_at": "2026-06-10T06:26:38.009Z",
+      "language": "python",
+      "lines": 58
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-06-10T06:53:45.512Z",
+      "last_pushed_at": "2026-06-10T06:53:45.512Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:152": {
+      "kind": "problem",
+      "id": "152",
+      "title": "Implementing ROUGE Score",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/152",
+      "path": "problems/0152-implementing-rouge-score",
+      "first_solved_at": "2026-06-10T16:36:48.677Z",
+      "last_pushed_at": "2026-06-10T16:36:48.677Z",
+      "language": "python",
+      "lines": 55
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-06-10T16:41:09.858Z",
+      "last_pushed_at": "2026-06-10T16:41:09.858Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }

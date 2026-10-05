@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**55** solved · 54 problems · 1 labs · 0 math
+**60** solved · 59 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-08-01 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-10-05 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-01-17 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-06-10 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-01-22 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-09-17 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-09-17 | [solution](problems/0908-implement-layernorm-from-scratch) |
@@ -29,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Swish Activation Function](https://www.deep-ml.com/problems/102) | easy | 2026-06-08 | [solution](problems/0102-implement-the-swish-activation-function) |
 | [Label Encoding for Ordinal Variables](https://www.deep-ml.com/problems/356) | easy | 2026-05-26 | [solution](problems/0356-label-encoding-for-ordinal-variables) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-01-22 | [solution](problems/0045-linear-kernel-function) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-06-10 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-01-14 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-01-22 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-02-13 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
@@ -55,7 +57,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-17 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-09-17 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-01-26 | [solution](problems/0297-implement-request-batching-for-inference) |
+| [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-06-10 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-06-10 | [solution](problems/0152-implementing-rouge-score) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-09-17 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-06-10 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-01-22 | [solution](problems/0007-matrix-transformation) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-05-09 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-05-09 | [solution](problems/0316-mmlu-log-probability-scoring) |
