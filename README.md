@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 33 problems · 0 labs · 0 math
+**35** solved · 35 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-09-17 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-01-14 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Word Error Rate by Edit Distance](https://www.deep-ml.com/problems/1440) | easy | 2026-10-05 | [solution](problems/1440-word-error-rate-by-edit-distance) |
+| [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-01-16 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-17 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-09-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Continuous Batching vs Static Batching Throughput Comparison](https://www.deep-ml.com/problems/452) | medium | 2026-09-17 | [solution](problems/0452-continuous-batching-vs-static-batching-throughput-comparison) |
@@ -45,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Radix Prefix-Tree KV Cache Lookup](https://www.deep-ml.com/problems/1306) | medium | 2026-10-05 | [solution](problems/1306-radix-prefix-tree-kv-cache-lookup) |
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-09-17 | [solution](problems/0388-sliding-window-attention) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-17 | [solution](problems/1225-two-layer-mlp-forward-pass) |
+| [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-01-16 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 
 ---
 
