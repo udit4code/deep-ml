@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:05:32.034Z",
+  "generated_at": "2026-10-05T17:05:33.872Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -377,6 +377,58 @@
       "last_pushed_at": "2025-11-29T19:29:22.636Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-01-14T17:49:48.883Z",
+      "last_pushed_at": "2026-01-14T17:49:48.883Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-01-14T18:00:54.518Z",
+      "last_pushed_at": "2026-01-14T18:00:54.518Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-01-14T18:05:56.879Z",
+      "last_pushed_at": "2026-01-14T18:05:56.879Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-01-14T18:09:49.855Z",
+      "last_pushed_at": "2026-01-14T18:09:49.855Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
