@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:45:38.043Z",
+  "generated_at": "2026-10-05T16:55:23.054Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -286,6 +286,19 @@
       "last_pushed_at": "2026-10-05T16:45:37.086Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:1306": {
+      "kind": "problem",
+      "id": "1306",
+      "title": "Radix Prefix-Tree KV Cache Lookup",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1306",
+      "path": "problems/1306-radix-prefix-tree-kv-cache-lookup",
+      "first_solved_at": "2026-10-05T16:55:08.923Z",
+      "last_pushed_at": "2026-10-05T16:55:08.923Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
