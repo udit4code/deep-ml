@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:05:57.868Z",
+  "generated_at": "2026-10-05T17:05:59.751Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -806,6 +806,45 @@
       "last_pushed_at": "2026-07-02T13:17:31.339Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-07-10T16:35:15.472Z",
+      "last_pushed_at": "2026-07-10T16:35:15.472Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:309": {
+      "kind": "problem",
+      "id": "309",
+      "title": "Product Rule for Derivatives",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/309",
+      "path": "problems/0309-product-rule-for-derivatives",
+      "first_solved_at": "2026-07-10T16:43:37.300Z",
+      "last_pushed_at": "2026-07-10T16:43:37.300Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:380": {
+      "kind": "problem",
+      "id": "380",
+      "title": "Byte Pair Encoding (BPE) Tokenizer",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/380",
+      "path": "problems/0380-byte-pair-encoding-bpe-tokenizer",
+      "first_solved_at": "2026-07-10T17:10:57.080Z",
+      "last_pushed_at": "2026-07-10T17:10:57.080Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
