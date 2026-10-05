@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:05:50.021Z",
+  "generated_at": "2026-10-05T17:05:51.868Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -702,6 +702,19 @@
       "last_pushed_at": "2026-06-08T20:31:39.252Z",
       "language": "python",
       "lines": 25
+    },
+    "lab:30": {
+      "kind": "lab",
+      "id": "30",
+      "title": "MNIST: Tinygrad Data Transform",
+      "difficulty": "medium",
+      "category": "Data Pipelines",
+      "url": "https://www.deep-ml.com/labs/30",
+      "path": "labs/0030-mnist-tinygrad-data-transform",
+      "first_solved_at": "2026-06-09T06:28:50.566Z",
+      "last_pushed_at": "2026-06-09T06:28:50.566Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**54** solved · 54 problems · 0 labs · 0 math
+**55** solved · 54 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-09-17 | [solution](problems/0388-sliding-window-attention) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-17 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-01-16 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [MNIST: Tinygrad Data Transform](https://www.deep-ml.com/labs/30) | medium | 2026-06-09 | [solution](labs/0030-mnist-tinygrad-data-transform) |
 
 ---
 
