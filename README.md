@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 64 problems · 2 labs · 0 math
+**67** solved · 65 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-06-22 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-06-10 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-10 | [solution](problems/0083-dot-product-calculator) |
+| [Duplicated N-gram Coverage Ratio](https://www.deep-ml.com/problems/772) | easy | 2026-07-18 | [solution](problems/0772-duplicated-n-gram-coverage-ratio) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-01-22 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-09-17 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-09-17 | [solution](problems/0908-implement-layernorm-from-scratch) |
