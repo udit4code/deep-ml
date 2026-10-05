@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**47** solved · 47 problems · 0 labs · 0 math
+**51** solved · 51 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-09-17 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-01-14 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Word Error Rate by Edit Distance](https://www.deep-ml.com/problems/1440) | easy | 2026-10-05 | [solution](problems/1440-word-error-rate-by-edit-distance) |
+| [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-05-09 | [solution](problems/0321-bleu-score-for-text-generation) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-01-16 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-17 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-09-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
@@ -45,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-01-26 | [solution](problems/0219-derivative-of-softmax) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-10-05 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [GPT FeedForward Block (Linear-GELU-Linear)](https://www.deep-ml.com/problems/1007) | medium | 2026-09-17 | [solution](problems/1007-gpt-feedforward-block-linear-gelu-linear) |
+| [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-05-09 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-09-17 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement Efficient Sparse Window Attention](https://www.deep-ml.com/problems/131) | medium | 2026-09-17 | [solution](problems/0131-implement-efficient-sparse-window-attention) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-17 | [solution](problems/0107-implement-masked-self-attention) |
@@ -52,6 +54,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-01-26 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-09-17 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-01-22 | [solution](problems/0007-matrix-transformation) |
+| [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-05-09 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
+| [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-05-09 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-01-17 | [solution](problems/0204-mutual-information) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-09-17 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-17 | [solution](problems/1227-numerically-stable-softmax) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:05:44.306Z",
+  "generated_at": "2026-10-05T17:05:46.312Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -611,6 +611,58 @@
       "last_pushed_at": "2026-02-13T14:39:31.536Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:354": {
+      "kind": "problem",
+      "id": "354",
+      "title": "Handle Missing Data with Imputation",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/354",
+      "path": "problems/0354-handle-missing-data-with-imputation",
+      "first_solved_at": "2026-05-09T10:16:36.787Z",
+      "last_pushed_at": "2026-05-09T10:16:36.787Z",
+      "language": "python",
+      "lines": 124
+    },
+    "problem:326": {
+      "kind": "problem",
+      "id": "326",
+      "title": "MMLU Letter-Matching Evaluation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/326",
+      "path": "problems/0326-mmlu-letter-matching-evaluation",
+      "first_solved_at": "2026-05-09T10:28:58.360Z",
+      "last_pushed_at": "2026-05-09T10:28:58.360Z",
+      "language": "python",
+      "lines": 148
+    },
+    "problem:316": {
+      "kind": "problem",
+      "id": "316",
+      "title": "MMLU Log-Probability Scoring",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/316",
+      "path": "problems/0316-mmlu-log-probability-scoring",
+      "first_solved_at": "2026-05-09T10:42:13.330Z",
+      "last_pushed_at": "2026-05-09T10:42:13.330Z",
+      "language": "python",
+      "lines": 130
+    },
+    "problem:321": {
+      "kind": "problem",
+      "id": "321",
+      "title": "BLEU Score for Text Generation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/321",
+      "path": "problems/0321-bleu-score-for-text-generation",
+      "first_solved_at": "2026-05-09T10:57:07.845Z",
+      "last_pushed_at": "2026-05-09T10:57:07.845Z",
+      "language": "python",
+      "lines": 105
     }
   }
 }
