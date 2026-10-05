@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:05:39.900Z",
+  "generated_at": "2026-10-05T17:05:41.963Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -559,6 +559,45 @@
       "last_pushed_at": "2026-01-22T19:15:39.064Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-01-26T10:16:30.537Z",
+      "last_pushed_at": "2026-01-26T10:16:30.537Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-01-26T10:23:46.219Z",
+      "last_pushed_at": "2026-01-26T10:23:46.219Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:297": {
+      "kind": "problem",
+      "id": "297",
+      "title": "Implement Request Batching for Inference",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/297",
+      "path": "problems/0297-implement-request-batching-for-inference",
+      "first_solved_at": "2026-01-26T18:01:43.371Z",
+      "last_pushed_at": "2026-01-26T18:01:43.371Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
