@@ -23,6 +23,13 @@ def estimate_kv_cache_size(model_config: dict, batch_size: int, seq_len: int) ->
 
     # Step 2 : Compute total_elements per layer (Factor of 2 for both Keys and Values)
     head_dimension = hidden_size // num_attention_heads
+    # Hierarchy (per-layer): batch -> sequence -> tokens
+    # Each token x_t is projected via W_q, W_k, W_v into query, key, and value representations.
+    # In standard MHA, a token has `num_attention_heads` key and value vectors.
+    # In GQA (Grouped-Query Attention), query heads are grouped, and each group shares 
+    # 1 key head and 1 value head (totaling `num_kv_heads` key and value vectors).
+    # Therefore, per layer, storing both Key and Value caches requires:
+    # 2 * batch_size * seq_len * num_kv_heads * head_dimension elements.
     total_elements_per_layer = 2 * batch_size * seq_len * num_kv_heads * head_dimension
 
     # Step 3 : Compute total elements across all layers

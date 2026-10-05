@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:39:57.838Z",
+  "generated_at": "2026-10-05T16:45:38.043Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -283,9 +283,9 @@
       "url": "https://www.deep-ml.com/problems/418",
       "path": "problems/0418-estimate-kv-cache-size-from-model-config",
       "first_solved_at": "2026-10-05T16:39:56.877Z",
-      "last_pushed_at": "2026-10-05T16:39:56.877Z",
+      "last_pushed_at": "2026-10-05T16:45:37.086Z",
       "language": "python",
-      "lines": 46
+      "lines": 53
     }
   }
 }
