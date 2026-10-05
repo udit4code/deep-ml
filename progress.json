@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:05:37.911Z",
+  "generated_at": "2026-10-05T17:05:39.900Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -507,6 +507,58 @@
       "last_pushed_at": "2026-01-17T17:16:20.316Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-01-22T18:15:19.655Z",
+      "last_pushed_at": "2026-01-22T18:15:19.655Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-01-22T18:22:51.074Z",
+      "last_pushed_at": "2026-01-22T18:22:51.074Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-01-22T18:49:02.162Z",
+      "last_pushed_at": "2026-01-22T18:49:02.162Z",
+      "language": "python",
+      "lines": 39
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-01-22T19:15:39.064Z",
+      "last_pushed_at": "2026-01-22T19:15:39.064Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
