@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 35 problems · 0 labs · 0 math
+**39** solved · 39 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,11 +13,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Balance Dataset via Undersampling](https://www.deep-ml.com/problems/1057) | easy | 2026-09-17 | [solution](problems/1057-balance-dataset-via-undersampling) |
+| [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-01-17 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Build a Dataset and Use It with a DataLoader](https://www.deep-ml.com/problems/899) | easy | 2026-09-17 | [solution](problems/0899-build-a-dataset-and-use-it-with-a-dataloader) |
 | [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-09-17 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2025-08-01 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-01-17 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-08-01 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-10-05 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
+| [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-01-17 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-09-17 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-09-17 | [solution](problems/0908-implement-layernorm-from-scratch) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-01-14 | [solution](problems/0001-matrix-vector-dot-product) |
@@ -41,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-17 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-09-17 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-09-17 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
+| [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-01-17 | [solution](problems/0204-mutual-information) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-09-17 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-17 | [solution](problems/1227-numerically-stable-softmax) |
 | [Radix Prefix-Tree KV Cache Lookup](https://www.deep-ml.com/problems/1306) | medium | 2026-10-05 | [solution](problems/1306-radix-prefix-tree-kv-cache-lookup) |
