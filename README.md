@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**28** solved · 28 problems · 0 labs · 0 math
+**29** solved · 29 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-10-05 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-09-17 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-09-17 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-11-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-09-17 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Word Error Rate by Edit Distance](https://www.deep-ml.com/problems/1440) | easy | 2026-10-05 | [solution](problems/1440-word-error-rate-by-edit-distance) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-17 | [solution](problems/0490-build-scaled-dot-product-attention) |
