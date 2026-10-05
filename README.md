@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 23 problems · 0 labs · 0 math
+**24** solved · 24 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-09-17 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-09-17 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-09-17 | [solution](problems/0945-token-embedding-lookup-table) |
+| [Word Error Rate by Edit Distance](https://www.deep-ml.com/problems/1440) | easy | 2026-10-05 | [solution](problems/1440-word-error-rate-by-edit-distance) |
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-17 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Continuous Batching vs Static Batching Throughput Comparison](https://www.deep-ml.com/problems/452) | medium | 2026-09-17 | [solution](problems/0452-continuous-batching-vs-static-batching-throughput-comparison) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-10-05 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |

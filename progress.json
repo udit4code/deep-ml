@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:55:23.054Z",
+  "generated_at": "2026-10-05T17:02:18.176Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -299,6 +299,19 @@
       "last_pushed_at": "2026-10-05T16:55:08.923Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:1440": {
+      "kind": "problem",
+      "id": "1440",
+      "title": "Word Error Rate by Edit Distance",
+      "difficulty": "easy",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1440",
+      "path": "problems/1440-word-error-rate-by-edit-distance",
+      "first_solved_at": "2026-10-05T17:02:17.520Z",
+      "last_pushed_at": "2026-10-05T17:02:17.520Z",
+      "language": "python",
+      "lines": 109
     }
   }
 }
