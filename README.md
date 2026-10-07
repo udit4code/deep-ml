@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**79** solved · 77 problems · 2 labs · 0 math
+**80** solved · 78 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -84,6 +84,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mutual Information](https://www.deep-ml.com/problems/204) | medium | 2026-01-17 | [solution](problems/0204-mutual-information) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-09-17 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-17 | [solution](problems/1227-numerically-stable-softmax) |
+| [Post-Training Quantization with Per-Channel Scale Factors](https://www.deep-ml.com/problems/426) | medium | 2026-10-07 | [solution](problems/0426-post-training-quantization-with-per-channel-scale-factors) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-10 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Radix Prefix-Tree KV Cache Lookup](https://www.deep-ml.com/problems/1306) | medium | 2026-10-05 | [solution](problems/1306-radix-prefix-tree-kv-cache-lookup) |
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-09-17 | [solution](problems/0388-sliding-window-attention) |
