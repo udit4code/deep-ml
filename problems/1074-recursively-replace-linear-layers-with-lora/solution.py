@@ -40,8 +40,9 @@ def replace_linear_with_lora(module, rank, alpha, seen=None):
     # Avoid infinite loops on circular references
     if id(module) in seen:
         return
-        
+    # Add current module to seen
     seen.add(id(module))
+    # Now, apply dfs
     for name, child in list(module._modules.items()):
         if isinstance(child, Linear):
             # Replace Linear with LinearWithLoRA in-place
