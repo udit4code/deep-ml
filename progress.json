@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:37:02.445Z",
+  "generated_at": "2026-10-13T13:38:07.223Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -1141,9 +1141,9 @@
       "url": "https://www.deep-ml.com/problems/1305",
       "path": "problems/1305-multi-lora-batched-linear-punica-s-lora",
       "first_solved_at": "2026-10-13T13:37:01.394Z",
-      "last_pushed_at": "2026-10-13T13:37:01.394Z",
+      "last_pushed_at": "2026-10-13T13:38:06.502Z",
       "language": "python",
-      "lines": 83
+      "lines": 106
     }
   }
 }
