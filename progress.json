@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:29:27.063Z",
+  "generated_at": "2026-10-13T13:31:06.276Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -1105,6 +1105,19 @@
       "last_pushed_at": "2026-10-13T13:29:26.341Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:871": {
+      "kind": "problem",
+      "id": "871",
+      "title": "Efficient Task Switching with LoRA Weight Swapping",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/871",
+      "path": "problems/0871-efficient-task-switching-with-lora-weight-swapping",
+      "first_solved_at": "2026-10-13T13:31:05.366Z",
+      "last_pushed_at": "2026-10-13T13:31:05.366Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }

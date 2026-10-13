@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 83 problems · 2 labs · 0 math
+**86** solved · 84 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-09-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Continuous Batching vs Static Batching Throughput Comparison](https://www.deep-ml.com/problems/452) | medium | 2026-09-17 | [solution](problems/0452-continuous-batching-vs-static-batching-throughput-comparison) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-01-26 | [solution](problems/0219-derivative-of-softmax) |
+| [Efficient Task Switching with LoRA Weight Swapping](https://www.deep-ml.com/problems/871) | medium | 2026-10-13 | [solution](problems/0871-efficient-task-switching-with-lora-weight-swapping) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-10-05 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [GPT FeedForward Block (Linear-GELU-Linear)](https://www.deep-ml.com/problems/1007) | medium | 2026-09-17 | [solution](problems/1007-gpt-feedforward-block-linear-gelu-linear) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-05-09 | [solution](problems/0354-handle-missing-data-with-imputation) |
