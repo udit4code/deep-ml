@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**89** solved · 87 problems · 2 labs · 0 math
+**90** solved · 88 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-09-17 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2025-08-01 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-01-17 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate LoRA Trainable Parameter Count vs Full Fine-Tuning](https://www.deep-ml.com/problems/867) | easy | 2026-10-13 | [solution](problems/0867-calculate-lora-trainable-parameter-count-vs-full-fine-tuning) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-08-01 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-07-24 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-07-24 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
