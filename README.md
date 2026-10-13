@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 79 problems · 2 labs · 0 math
+**82** solved · 80 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -78,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-06-10 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-06-10 | [solution](problems/0152-implementing-rouge-score) |
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-09-17 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
+| [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-10-13 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-06-10 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-01-22 | [solution](problems/0007-matrix-transformation) |
 | [MMLU Letter-Matching Evaluation](https://www.deep-ml.com/problems/326) | medium | 2026-05-09 | [solution](problems/0326-mmlu-letter-matching-evaluation) |
