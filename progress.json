@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:22:20.219Z",
+  "generated_at": "2026-10-13T13:25:37.560Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -1079,6 +1079,19 @@
       "last_pushed_at": "2026-10-13T13:22:19.420Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:870": {
+      "kind": "problem",
+      "id": "870",
+      "title": "LoRA-Adapted Linear Projection with Task Switching",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/870",
+      "path": "problems/0870-lora-adapted-linear-projection-with-task-switching",
+      "first_solved_at": "2026-10-13T13:25:36.718Z",
+      "last_pushed_at": "2026-10-13T13:25:36.718Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
