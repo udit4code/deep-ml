@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**82** solved · 80 problems · 2 labs · 0 math
+**83** solved · 81 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Post-Training Quantization with Per-Channel Scale Factors](https://www.deep-ml.com/problems/426) | medium | 2026-10-07 | [solution](problems/0426-post-training-quantization-with-per-channel-scale-factors) |
 | [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-07-10 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Radix Prefix-Tree KV Cache Lookup](https://www.deep-ml.com/problems/1306) | medium | 2026-10-05 | [solution](problems/1306-radix-prefix-tree-kv-cache-lookup) |
+| [Simulate LoRA Rank Selection with Synthetic Low-Rank Updates](https://www.deep-ml.com/problems/879) | medium | 2026-10-13 | [solution](problems/0879-simulate-lora-rank-selection-with-synthetic-low-rank-updates) |
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-09-17 | [solution](problems/0388-sliding-window-attention) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-17 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-01-16 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |

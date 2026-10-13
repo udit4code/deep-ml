@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:16:14.253Z",
+  "generated_at": "2026-10-13T13:22:20.219Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -1066,6 +1066,19 @@
       "last_pushed_at": "2026-10-13T13:16:13.440Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:879": {
+      "kind": "problem",
+      "id": "879",
+      "title": "Simulate LoRA Rank Selection with Synthetic Low-Rank Updates",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/879",
+      "path": "problems/0879-simulate-lora-rank-selection-with-synthetic-low-rank-updates",
+      "first_solved_at": "2026-10-13T13:22:19.420Z",
+      "last_pushed_at": "2026-10-13T13:22:19.420Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
