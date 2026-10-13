@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:38:22.041Z",
+  "generated_at": "2026-10-13T13:39:56.406Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -1144,6 +1144,19 @@
       "last_pushed_at": "2026-10-13T13:38:21.241Z",
       "language": "python",
       "lines": 106
+    },
+    "problem:866": {
+      "kind": "problem",
+      "id": "866",
+      "title": "Merge LoRA Adapter Weights for Zero-Latency Inference",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/866",
+      "path": "problems/0866-merge-lora-adapter-weights-for-zero-latency-inference",
+      "first_solved_at": "2026-10-13T13:39:55.687Z",
+      "last_pushed_at": "2026-10-13T13:39:55.687Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
