@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T13:31:06.276Z",
+  "generated_at": "2026-10-13T13:33:20.565Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -1118,6 +1118,19 @@
       "last_pushed_at": "2026-10-13T13:31:05.366Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:874": {
+      "kind": "problem",
+      "id": "874",
+      "title": "Calculate Memory Savings of LoRA vs Full Fine-Tuning with Adam",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/874",
+      "path": "problems/0874-calculate-memory-savings-of-lora-vs-full-fine-tuning-with-adam",
+      "first_solved_at": "2026-10-13T13:33:19.882Z",
+      "last_pushed_at": "2026-10-13T13:33:19.882Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }

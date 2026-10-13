@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**86** solved · 84 problems · 2 labs · 0 math
+**87** solved · 85 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build Scaled Dot-Product Attention](https://www.deep-ml.com/problems/490) | medium | 2026-09-17 | [solution](problems/0490-build-scaled-dot-product-attention) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-07-10 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-09-24 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Calculate Memory Savings of LoRA vs Full Fine-Tuning with Adam](https://www.deep-ml.com/problems/874) | medium | 2026-10-13 | [solution](problems/0874-calculate-memory-savings-of-lora-vs-full-fine-tuning-with-adam) |
 | [Continuous Batching vs Static Batching Throughput Comparison](https://www.deep-ml.com/problems/452) | medium | 2026-09-17 | [solution](problems/0452-continuous-batching-vs-static-batching-throughput-comparison) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-01-26 | [solution](problems/0219-derivative-of-softmax) |
 | [Efficient Task Switching with LoRA Weight Swapping](https://www.deep-ml.com/problems/871) | medium | 2026-10-13 | [solution](problems/0871-efficient-task-switching-with-lora-weight-swapping) |
