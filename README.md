@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**91** solved · 89 problems · 2 labs · 0 math
+**92** solved · 89 problems · 2 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -108,6 +108,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Build a Tokenizer for Language Modeling](https://www.deep-ml.com/labs/19) | medium | 2026-07-11 | [solution](labs/0019-build-a-tokenizer-for-language-modeling) |
 | [MNIST: Tinygrad Data Transform](https://www.deep-ml.com/labs/30) | medium | 2026-06-09 | [solution](labs/0030-mnist-tinygrad-data-transform) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-10-21 | [solution](math/0018-descriptive-statistics) |
 
 ---
 
