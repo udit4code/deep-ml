@@ -1,5 +1,9 @@
 from collections import deque
 
+# This is an implicit approach, where we do not create the graph upfront. 
+# We create the Graph on the fly. 
+# Time Complexity : O(N^2) in the worst case, when each node may check its distance against all other nodes during the BFS traversal. 
+# Space Complexity : O(N) to maintain the visited set and the BFS queue.
 def graph_reachable(points, start, target, r):
     """
     Determines whether the target point is reachable from the start point 

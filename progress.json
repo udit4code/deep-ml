@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:04:27.703Z",
+  "generated_at": "2026-10-21T06:07:40.457Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -1217,9 +1217,9 @@
       "url": "https://www.deep-ml.com/problems/1245",
       "path": "problems/1245-graph-reachability-via-distance-threshold-connections",
       "first_solved_at": "2026-10-21T06:04:26.835Z",
-      "last_pushed_at": "2026-10-21T06:04:26.835Z",
+      "last_pushed_at": "2026-10-21T06:07:39.461Z",
       "language": "python",
-      "lines": 39
+      "lines": 43
     }
   }
 }
