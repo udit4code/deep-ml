@@ -1,5 +1,31 @@
 import numpy as np
 
+import numpy as np
+
+def covariance_from_joint_pmf_optimized(x_values: list, y_values: list, joint_pmf: np.ndarray) -> float:
+    """
+    Optimized computation of Covariance of X and Y from their joint PMF 
+    using matrix multiplication instead of outer product allocation.
+    """
+    x_arr = np.asarray(x_values, dtype=float)
+    y_arr = np.asarray(y_values, dtype=float)
+    
+    # Step 1: Compute marginal probabilities
+    p_x = joint_pmf.sum(axis=1)
+    p_y = joint_pmf.sum(axis=0)
+    
+    # Step 2: Compute expected values E[X] and E[Y]
+    e_x = np.dot(x_arr, p_x)
+    e_y = np.dot(y_arr, p_y)
+    
+    # Step 3: Compute E[XY] efficiently via matrix-vector multiplication
+    # Equivalent to: sum_{i,j} x_i * y_j * P(X=x_i, Y=y_j)
+    # This avoids allocating a full M x N outer product matrix in memory.
+    e_xy = np.dot(x_arr, np.dot(joint_pmf, y_arr))
+    
+    # Step 4: Covariance formula
+    return float(e_xy - (e_x * e_y))
+    
 def covariance_from_joint_pmf(x_values: list, y_values: list, joint_pmf: np.ndarray) -> float:
     """
     Compute the covariance of X and Y from their joint PMF.

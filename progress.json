@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:16:32.800Z",
+  "generated_at": "2026-10-21T06:17:22.485Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -1243,9 +1243,9 @@
       "url": "https://www.deep-ml.com/problems/243",
       "path": "problems/0243-compute-covariance-from-joint-probability-mass-function",
       "first_solved_at": "2026-10-21T06:16:31.989Z",
-      "last_pushed_at": "2026-10-21T06:16:31.989Z",
+      "last_pushed_at": "2026-10-21T06:17:21.850Z",
       "language": "python",
-      "lines": 33
+      "lines": 59
     }
   }
 }
