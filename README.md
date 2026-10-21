@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 91 problems · 2 labs · 1 math
+**95** solved · 92 problems · 2 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -78,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-09-17 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement a Trie for Prefix Matching](https://www.deep-ml.com/problems/1083) | medium | 2026-07-24 | [solution](problems/1083-implement-a-trie-for-prefix-matching) |
 | [Implement Efficient Sparse Window Attention](https://www.deep-ml.com/problems/131) | medium | 2026-09-17 | [solution](problems/0131-implement-efficient-sparse-window-attention) |
+| [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-10-21 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-17 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Multiquery Attention (MQA)](https://www.deep-ml.com/problems/390) | medium | 2026-09-17 | [solution](problems/0390-implement-multiquery-attention-mqa) |
 | [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-01-26 | [solution](problems/0297-implement-request-batching-for-inference) |

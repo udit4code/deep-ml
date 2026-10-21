@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:07:40.457Z",
+  "generated_at": "2026-10-21T06:14:49.244Z",
   "items": {
     "problem:1057": {
       "kind": "problem",
@@ -1220,6 +1220,19 @@
       "last_pushed_at": "2026-10-21T06:07:39.461Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2026-10-21T06:14:48.472Z",
+      "last_pushed_at": "2026-10-21T06:14:48.472Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
