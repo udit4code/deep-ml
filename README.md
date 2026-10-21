@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**93** solved · 90 problems · 2 labs · 1 math
+**94** solved · 91 problems · 2 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -73,6 +73,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Efficient Task Switching with LoRA Weight Swapping](https://www.deep-ml.com/problems/871) | medium | 2026-10-13 | [solution](problems/0871-efficient-task-switching-with-lora-weight-swapping) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-10-05 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [GPT FeedForward Block (Linear-GELU-Linear)](https://www.deep-ml.com/problems/1007) | medium | 2026-09-17 | [solution](problems/1007-gpt-feedforward-block-linear-gelu-linear) |
+| [Graph Reachability via Distance-Threshold Connections](https://www.deep-ml.com/problems/1245) | medium | 2026-10-21 | [solution](problems/1245-graph-reachability-via-distance-threshold-connections) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-05-09 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-09-17 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement a Trie for Prefix Matching](https://www.deep-ml.com/problems/1083) | medium | 2026-07-24 | [solution](problems/1083-implement-a-trie-for-prefix-matching) |
