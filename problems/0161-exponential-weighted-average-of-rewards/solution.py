@@ -12,7 +12,7 @@ def exp_weighted_average(Q1: float, rewards: list, alpha: float) -> float:
     # Step 1 : Compute the decaying contribution of the initial estimate Q1
     q1_term = ((1 - alpha) ** k) * Q1
     
-    # 2. Compute the weighted sum of all rewards directly from the formula
+    # Step 2 : Compute the weighted sum of all rewards directly from the formula
     rewards_term = 0.0
     for j, r in enumerate(rewards):
         # More recent rewards (higher index j) have a smaller exponent, 
