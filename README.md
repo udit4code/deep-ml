@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**97** solved · 94 problems · 2 labs · 1 math
+**98** solved · 95 problems · 2 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-07-10 | [solution](problems/0083-dot-product-calculator) |
 | [Duplicated N-gram Coverage Ratio](https://www.deep-ml.com/problems/772) | easy | 2026-07-18 | [solution](problems/0772-duplicated-n-gram-coverage-ratio) |
 | [Estimate Minimum GPU Count for Model Deployment](https://www.deep-ml.com/problems/412) | easy | 2026-07-24 | [solution](problems/0412-estimate-minimum-gpu-count-for-model-deployment) |
+| [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-10-31 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-01-22 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-09-17 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-07-24 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
