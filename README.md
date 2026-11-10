@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**98** solved · 95 problems · 2 labs · 1 math
+**99** solved · 96 problems · 2 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -105,6 +105,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simulate LoRA Rank Selection with Synthetic Low-Rank Updates](https://www.deep-ml.com/problems/879) | medium | 2026-10-13 | [solution](problems/0879-simulate-lora-rank-selection-with-synthetic-low-rank-updates) |
 | [Sliding Window Attention](https://www.deep-ml.com/problems/388) | medium | 2026-09-17 | [solution](problems/0388-sliding-window-attention) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-17 | [solution](problems/1225-two-layer-mlp-forward-pass) |
+| [Approximate Nearest-Neighbour Search: Inverted File Index with Product Quantization (IVF-PQ)](https://www.deep-ml.com/problems/1606) | hard | 2026-11-10 | [solution](problems/1606-approximate-nearest-neighbour-search-inverted-file-index-with-product-quantization-ivf-pq) |
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-01-16 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Multi-LoRA Batched Linear (Punica / S-LoRA)](https://www.deep-ml.com/problems/1305) | hard | 2026-10-13 | [solution](problems/1305-multi-lora-batched-linear-punica-s-lora) |
 
