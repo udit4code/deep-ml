@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**100** solved · 97 problems · 2 labs · 1 math
+**101** solved · 98 problems · 2 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -71,6 +71,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Memory Savings of LoRA vs Full Fine-Tuning with Adam](https://www.deep-ml.com/problems/874) | medium | 2026-10-13 | [solution](problems/0874-calculate-memory-savings-of-lora-vs-full-fine-tuning-with-adam) |
 | [Compute Covariance from Joint Probability Mass Function](https://www.deep-ml.com/problems/243) | medium | 2026-10-21 | [solution](problems/0243-compute-covariance-from-joint-probability-mass-function) |
 | [Continuous Batching vs Static Batching Throughput Comparison](https://www.deep-ml.com/problems/452) | medium | 2026-09-17 | [solution](problems/0452-continuous-batching-vs-static-batching-throughput-comparison) |
+| [Contrastive Loss (InfoNCE / SimCLR-style)](https://www.deep-ml.com/problems/384) | medium | 2026-11-15 | [solution](problems/0384-contrastive-loss-infonce-simclr-style) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-01-26 | [solution](problems/0219-derivative-of-softmax) |
 | [Efficient Task Switching with LoRA Weight Swapping](https://www.deep-ml.com/problems/871) | medium | 2026-10-13 | [solution](problems/0871-efficient-task-switching-with-lora-weight-swapping) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-10-05 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
